@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  regrettablemomentsingaming:
+    image: regrettablemomentsingaming
+    build:
+      context: .
+      dockerfile: ./Dockerfile
