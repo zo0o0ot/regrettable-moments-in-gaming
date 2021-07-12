@@ -4,8 +4,8 @@
 
 ### Hugo ###
 # Generated files by hugo
-regrettable-moments-in-gaming/public/
-regrettable-moments-in-gaming/resources/_gen/
+public/
+resources/_gen/
 
 # Executable may be added to repository
 hugo.exe
